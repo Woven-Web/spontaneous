@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "628020005413",
+    "project_id": "spontaneous-bsw",
+    "storage_bucket": "spontaneous-bsw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628020005413:android:8ecb2324376656d2dacdcc",
+        "android_client_info": {
+          "package_name": "org.wovenweb.spontaneous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628020005413-5dshhtmm64jn8dhhj8eqem1tii2g3fsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ041Uj3Bk84iU9xtOIyDJLyADV0HT0po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628020005413-5dshhtmm64jn8dhhj8eqem1tii2g3fsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628020005413-n5gqlsk2rfad8ermrnr9fqdip8n49lsg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.wovenweb.spontaneous"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

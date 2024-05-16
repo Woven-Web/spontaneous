@@ -10,10 +10,13 @@ environment:
   sdk: '>=3.3.4 <4.0.0'
 
 dependencies:
+  firebase_auth: ^4.19.5
+  firebase_core: ^2.31.0
   flutter:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  google_sign_in: ^6.2.1
 
 dev_dependencies:
   flutter_test:
