@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      envify_generator:
+        generate_for:
+          - lib/env.dart

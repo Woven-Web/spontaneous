@@ -1,35 +1,27 @@
 name: spontaneous
 description: "A new Flutter project."
-
-# Prevent accidental publishing to pub.dev.
-publish_to: 'none'
-
-version: 1.0.0+1
+publish_to: "none"
+version: 0.1.0
 
 environment:
-  sdk: '>=3.3.4 <4.0.0'
+  sdk: ^3.5.1
 
 dependencies:
-  firebase_auth: ^4.19.5
-  firebase_core: ^2.31.0
   flutter:
     sdk: flutter
-  flutter_localizations:
-    sdk: flutter
-  google_sign_in: ^6.2.1
+  supabase_auth_ui: ^0.5.1
+  supabase_flutter: ^2.0.0
+  fluttertoast: ^8.2.4
+  envied: ^0.5.3 # Add this line
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-  flutter_lints: ^3.0.0
+  flutter_lints: ^4.0.0
+  intl: ^0.19.0
+  build_runner: ^2.4.12
+  envied_generator: ^0.5.3 # Add this line
 
 flutter:
   uses-material-design: true
-
-  # Enable generation of localized Strings from arb files.
-  generate: true
-
-  assets:
-    # Add assets from the images directory to the application.
-    - assets/images/
+  generate: false # Add this line
