@@ -42,3 +42,4 @@ app.*.map.json
 /android/app/release
 build/8cc702af5a2df27b825af3a82a513cbe
 build/f0f7b7c74e0cb0abb7131f886e5ff844
+.env
