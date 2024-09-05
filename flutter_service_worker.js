@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"main.dart.js": "ccd8985ba85097b91ffb4ac969dd5b11",
-"index.html": "601a9484760a9ee1a5b2a0ad36376582",
-"/": "601a9484760a9ee1a5b2a0ad36376582",
+const RESOURCES = {"main.dart.js": "850cc75036ddae7e77f790d2406522dd",
+"index.html": "1f710923a225fa4fb680355c84ed63b9",
+"/": "1f710923a225fa4fb680355c84ed63b9",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -30,7 +30,7 @@ const RESOURCES = {"main.dart.js": "ccd8985ba85097b91ffb4ac969dd5b11",
 "assets/packages/supabase_auth_ui/assets/logos/keycloak.png": "ea74380ccc89dbc26bd0281dd46ee942",
 "assets/AssetManifest.bin.json": "4de49b67b3b2e2d4f5db4b0d15a927de",
 "assets/AssetManifest.bin": "64dae35a574f846073c6637376f893f3",
-"flutter_bootstrap.js": "23ae574e73965b4d1ae37d0b4d236bec",
+"flutter_bootstrap.js": "2cbc3d997747db217968beccb240715c",
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
 "canvaskit/chromium/canvaskit.wasm": "b1ac05b29c127d86df4bcfbf50dd902a",
 "canvaskit/chromium/canvaskit.js": "671c6b4f8fcc199dcc551c7bb125f239",

@@ -88675,7 +88675,7 @@ if(r.r){s=r.d
 s===$&&A.a()
 s=new A.Cd(B.GP,s,q)}else s=q
 return A.awv(p,s,B.TC)},
-a4J(){return new A.C7(null,new A.anJ(this),new A.anK(),A.b([new A.fc("Username","username",new A.anL(),B.Ft)],t.b4),null)}}
+a4J(){return new A.C7(null,new A.anJ(this),new A.anK(),A.b([new A.fc("Display Name","display_name",new A.anL(),B.Ft)],t.b4),null)}}
 A.anQ.prototype={
 $0(){this.a.r=this.b},
 $S:0}
