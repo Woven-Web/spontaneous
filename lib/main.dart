@@ -229,8 +229,8 @@ class _HomePageState extends State<HomePage>
       metadataFields: [
         MetaDataField(
           prefixIcon: const Icon(Icons.person),
-          label: 'Username',
-          key: 'username',
+          label: 'Display Name',
+          key: 'display_name',
           validator: (val) {
             if (val == null || val.isEmpty) {
               return 'Please enter something';
